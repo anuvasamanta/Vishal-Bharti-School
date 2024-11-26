@@ -1,0 +1,207 @@
+/* extra small screen(<576px) */
+@media (max-width: 575.98px) {
+    /* nav start */
+nav span {
+    display: block;
+    color: rgb(242, 60, 43);
+  }
+  nav .collapse {
+    margin-left:0px;
+  }
+  nav .clo {
+    color: rgb(242, 60, 43) !important;
+  }
+  .nav-link:hover {
+    color: rgb(242, 60, 43) !important;
+  }
+  .navbar-brand {
+    font-size: 15px;
+  }
+  /* nav ends */
+  /* third section start */
+.section-third{
+    margin: 20px 0px;
+  }
+  .section-third h3{
+    text-align: center;
+    color: black;
+    margin: 10px 0px;
+  }
+  .section-third .btn{
+  margin-left: 30% !important;
+  font-weight: 600;
+  margin-top: 20px;
+  }
+  /* third section ends */
+  /* fourth section start */
+.fourth{
+    margin: 10px 10px;
+  }
+  .fourth .whole-row h3{
+    color: rgb(255, 80, 80);
+    margin: 0px 0px;
+    text-align: center;
+  }
+.fourth p{
+    text-align: center;
+}
+  .fourth .whole-row img{
+    height: 200px;
+    margin-left: 30px;
+  }
+  /* fourth section ends */
+  /* fivth section start */
+.fivth{
+    margin: 20px 10px;
+  }
+  .fivth .whole-row1 p{
+    margin: 0px 0px;
+    text-align: center;
+  }
+  .fivth .whole-row1 img{
+    height: 200px;
+    width: 270px;
+    margin-left: 30px;
+  }
+  /* fivth section ends */
+}
+/* small screen((576px to 767.98px) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+ /* nav start */
+ nav span {
+    display: block;
+    color: rgb(242, 60, 43);
+  }
+  nav .collapse {
+    margin-left:0px;
+  }
+  nav .clo {
+    color: rgb(242, 60, 43) !important;
+  }
+  .nav-link:hover {
+    color: rgb(242, 60, 43) !important;
+  }
+  .navbar-brand {
+    font-size: 15px;
+  }
+  /* nav ends */
+  /* third section start */
+.section-third{
+    margin: 20px 0px;
+  }
+  .section-third h3{
+    text-align: center;
+    color: black;
+    margin: 10px 0px;
+  }
+  .section-third .btn{
+  margin-left: 40% !important;
+  font-weight: 600;
+  margin-top: 20px;
+  }
+  /* third section ends */
+  /* fourth section start */
+.fourth{
+    margin: 10px 10px;
+  }
+  .fourth .whole-row h3{
+    color: rgb(255, 80, 80);
+    margin: 0px 0px;
+    text-align: center;
+  }
+.fourth p{
+    text-align: center;
+}
+  .fourth .whole-row img{
+    height: 300px;
+    margin-left: 70px;
+  }
+  /* fourth section ends */
+  /* fivth section start */
+.fivth{
+    margin: 20px 10px;
+  }
+  .fivth .whole-row1 p{
+    margin: 0px 0px;
+    text-align: center;
+  }
+  .fivth .whole-row1 img{
+    height: 250px;
+    width: 400px;
+    margin-left: 70px;
+  }
+  /* fivth section ends */
+}
+/* MD screen (768px to 991.98px) */
+/* iPadMINI AIR */
+@media (min-width: 768px) and (max-width: 991.98px) {
+/* nav start */
+nav span {
+    display: block;
+    color: rgb(242, 60, 43);
+  }
+  nav .collapse {
+    margin-left:0px;
+  }
+  nav .clo {
+    color: rgb(242, 60, 43) !important;
+  }
+  .nav-link:hover {
+    color: rgb(242, 60, 43) !important;
+  }
+  .navbar-brand {
+    font-size: 15px;
+  }
+  /* nav ends */
+  /* third section start */
+.section-third{
+    margin: 20px 0px;
+  }
+  .section-third h3{
+    text-align: center;
+    color: black;
+    margin: 10px 0px;
+  }
+  .section-third .btn{
+  margin-left: 40% !important;
+  font-weight: 600;
+  margin-top: 20px;
+  }
+  /* third section ends */
+  /* fourth section start */
+.fourth{
+    margin: 10px 10px;
+  }
+  .fourth .whole-row h3{
+    color: rgb(255, 80, 80);
+    margin: 0px 0px;
+    text-align: center;
+  }
+.fourth p{
+    text-align: center;
+}
+  .fourth .whole-row img{
+    height: 300px;
+    margin-left: 120px;
+    width: 500px;
+  }
+  /* fourth section ends */
+  /* fivth section start */
+.fivth{
+    margin: 20px 10px;
+  }
+  .fivth .whole-row1 p{
+    margin: 0px 0px;
+    text-align: center;
+  }
+  .fivth .whole-row1 img{
+    height: 250px;
+    width: 500px;
+    margin-left: 120px;
+  }
+  /* fivth section ends */
+}
+/* large screen (992 to 1199.98px) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+}
